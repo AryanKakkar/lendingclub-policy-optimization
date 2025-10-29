@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data & models (keep large files out of Git)
+data/
+*.pt
+*.pth
+*.joblib
+*.pkl
+*.npz
+*.csv
+
+# OS/Editor
+.DS_Store
+.vscode/
+
+# d3rlpy logs (if any)
+d3rlpy_logs/
