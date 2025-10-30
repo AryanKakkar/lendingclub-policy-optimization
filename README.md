@@ -85,12 +85,7 @@ All relative paths are consistent; update `DATA_PATH` if CSV is elsewhere.
 
 ---
 
-## 🧾 Citation
-
-> *Aryan Kakkar (2025). LendingClub Policy Optimization — Supervised vs Offline Reinforcement Learning.*
-
----
-
 ```
 ```
+
 
