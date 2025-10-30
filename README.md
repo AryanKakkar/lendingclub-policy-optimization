@@ -61,8 +61,8 @@ All relative paths are consistent; update `DATA_PATH` if CSV is elsewhere.
 
 | Metric                     | Model          | Value                 |
 | -------------------------- | -------------- | --------------------- |
-| **AUC**                    | Deep Learning  | ~0.83                 |
-| **F1-Score**               | Deep Learning  | ~0.71                 |
+| **AUC**                    | Deep Learning  | ~0.707                 |
+| **F1-Score**               | Deep Learning  | ~0.5048                 |
 | **Estimated Policy Value** | RL Agent (CQL) | ≈ –3.3 × 10³ per loan |
 
 ---
@@ -81,6 +81,7 @@ All relative paths are consistent; update `DATA_PATH` if CSV is elsewhere.
 * Improve reward realism (recovery, costs).
 * Test newer offline RL algorithms (IQL, BCQ).
 * Combine DL scoring + RL policy layers.
+
 
 
 
