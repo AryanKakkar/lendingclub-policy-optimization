@@ -22,3 +22,10 @@ data/
 
 # d3rlpy logs (if any)
 d3rlpy_logs/
+# large generated data
+*.npy
+*.npz
+*.parquet
+
+# d3rlpy logs and models
+d3rlpy_logs/
