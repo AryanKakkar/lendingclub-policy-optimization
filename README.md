@@ -1,19 +1,11 @@
-Here’s your **ready-to-download report**:
-📄 **[Download LendingClub_Policy_Optimization_Report.pdf](sandbox:/mnt/data/LendingClub_Policy_Optimization_Report.pdf)**
-
----
-
-### 📘 `README.md` (Markdown Code)
-
-```markdown
 # 💰 LendingClub Policy Optimization
 *A comparative study of supervised default prediction and offline reinforcement learning for credit approval.*
 
 ---
 
 ## 🧩 Project Structure
-```
 
+```text
 lendingclub-policy-optimization/
 │
 ├── notebooks/
@@ -30,9 +22,8 @@ lendingclub-policy-optimization/
 ├── requirements.txt
 ├── README.md
 └── reports/
-└── LendingClub_Policy_Optimization_Report.pdf
+    └── LendingClub_Policy_Optimization_Report.pdf
 
-````
 
 ---
 
@@ -102,3 +93,4 @@ All relative paths are consistent; update `DATA_PATH` if CSV is elsewhere.
 
 ```
 ```
+
